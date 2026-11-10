@@ -1,0 +1,39 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "LRS",
+      "score": null,
+      "points": [
+        [
+          119.27536231884059,
+          242.17391304347828
+        ],
+        [
+          170.7246376811594,
+          296.5217391304348
+        ],
+        [
+          191.0144927536232,
+          275.5072463768116
+        ],
+        [
+          138.1159420289855,
+          219.71014492753625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "mask__040.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
